@@ -1,0 +1,6 @@
+let favenum=6;
+if (faveNum ===6){
+console.log ("lucky 6");
+}else{ 
+console.log ("not lucky 6") ;
+}
